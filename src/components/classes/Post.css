@@ -1,0 +1,10 @@
+.card {
+    padding: 20px;
+    border-bottom: 2px solid silver;
+    border-width: thin;
+}
+
+.card > .card-body > .asd { 
+    font-size: 11px;
+    font-style: italic;
+  }

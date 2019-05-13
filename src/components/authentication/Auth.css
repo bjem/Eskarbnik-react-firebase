@@ -1,0 +1,29 @@
+.col-md-3 {
+    margin-top: 20px;
+    padding: 20px;
+    border: 2px solid silver;
+    border-radius: 5px;
+    border-width: thin;
+}
+
+.head {
+    font-size: 2em;
+    text-align: center;
+}
+
+.login {
+    margin-top: 50px;
+}
+
+.register {
+    text-align: center;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+.red-text {
+    color: red;
+    text-align: center;
+}
